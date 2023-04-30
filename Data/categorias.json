@@ -1,0 +1,73 @@
+{
+    "mascotas": {
+      "nombre": "Luna",
+      "especie": "Gato",
+      "raza": "Siamés",
+      "edad": 3,
+      "dueño": "Ana"
+    },
+    "personas": {
+      "nombre": "Juan",
+      "edad": 30,
+      "ocupación": "Abogado",
+      "país": "Colombia",
+      "hobby": "Jugar fútbol"
+    },
+    "objetos": {
+      "nombre": "Mesa",
+      "material": "Madera",
+      "altura_cm": 80,
+      "ancho_cm": 120,
+      "largo_cm": 60
+    },
+    "personajes": {
+      "nombre": "Harry Potter",
+      "edad": 17,
+      "casa": "Gryffindor",
+      "varita": "Sauce, 28 cm, núcleo de pelo de unicornio",
+      "animal_mágico": "Lechuza blanca"
+    },
+    "frutas": {
+      "nombre": "Naranja",
+      "color": "Naranja",
+      "sabor": "Ácido",
+      "vitaminas": ["C"],
+      "calorías": 47
+    },
+    "vehículos": {
+      "nombre": "Bicicleta",
+      "tipo": "Montaña",
+      "marca": "Trek",
+      "color": "Negro",
+      "material": "Aluminio"
+    },
+    "países": {
+      "nombre": "España",
+      "capital": "Madrid",
+      "moneda": "Euro",
+      "idioma": "Español",
+      "continente": "Europa"
+    },
+    "instrumentos": {
+      "nombre": "Piano",
+      "tipo": "Cuerda percutida",
+      "material": "Madera",
+      "número_de_teclas": 88,
+      "origen": "Italia"
+    },
+    "bebidas": {
+      "nombre": "Café",
+      "tipo": "Bebida caliente",
+      "origen": "Etiopía",
+      "sabor": "Amargo",
+      "ingrediente_principal": "Café molido"
+    },
+    "deportes": {
+      "nombre": "Tenis",
+      "jugadores": 2,
+      "superficie": "Césped",
+      "duración_promedio": "2-4 horas",
+      "tamaño_de_la_cancha": "23.77 x 8.23 m"
+    }
+  }
+  
