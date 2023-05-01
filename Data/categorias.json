@@ -6,11 +6,7 @@
       "nombre": "Jhon",
       "años": "15",
       "ser": "Ser Vivo",
-      "caracteristicas":[
-        "Rubio",
-        "Alto",
-        "Inteligente"
-      ],
+      "caracteristicas": "Rubio Alto, Inteligente",
       "imagen": "https://drive.google.com/uc?id=14eW62jBYv3gixXFIPEKD-vZhf-8agTxg"
     },
     {
@@ -19,11 +15,7 @@
       "nombre": "Max",
       "años": "3",
       "ser": "Ser Vivo",
-      "caracteristicas":[
-        "Peludo",
-        "Pequeño",
-        "Jueguetón"
-      ],
+      "caracteristicas": "Peludo, Pequeño, Jueguetón",
       "imagen": "https://drive.google.com/uc?id=14eW62jBYv3gixXFIPEKD-vZhf-8agTxg"
     },
     {
@@ -32,11 +24,7 @@
       "nombre": "Mercedes Benz",
       "años": "1",
       "ser": "Objeto",
-      "caracteristicas":[
-        "Blanco",
-        "Deportivo",
-        "Rapido"
-      ],
+      "caracteristicas": "Blanco, Deportivo, Rapido",
       "imagen": "https://drive.google.com/uc?id=14eW62jBYv3gixXFIPEKD-vZhf-8agTxg"
     },
     {
@@ -45,11 +33,7 @@
       "nombre": "Burj Khalifa",
       "años": "19",
       "ser": "Objeto",
-      "caracteristicas":[
-        "Mas alto del Mundo",
-        "Lujoso",
-        "Acristalado"
-      ],
+      "caracteristicas": "Mas alto del Mundo ,Lujoso, Acristalado",
       "imagen": "https://drive.google.com/uc?id=14eW62jBYv3gixXFIPEKD-vZhf-8agTxg"
     },
     {
@@ -58,11 +42,7 @@
       "nombre": "Tierra",
       "años": "4.54 Mil Millones",
       "ser": "Ser Vivo",
-      "caracteristicas":[
-        "Redondo",
-        "Habitable",
-        "Diversidad"
-      ],
+      "caracteristicas": "Redondo, Habitable, Diversidad",
       "imagen": "https://drive.google.com/uc?id=14eW62jBYv3gixXFIPEKD-vZhf-8agTxg"
     },
     {
@@ -71,11 +51,7 @@
       "nombre": "Iphone 14",
       "años": "2",
       "ser": "Objeto",
-      "caracteristicas":[
-        "Ultimo Modelo",
-        "Rapido",
-        "Inteligente"
-      ],
+      "caracteristicas": "Ultimo, ModeloRapido, Inteligente",
       "imagen": "https://drive.google.com/uc?id=14eW62jBYv3gixXFIPEKD-vZhf-8agTxg"
     },
     {
@@ -84,11 +60,7 @@
       "nombre": "Roble ",
       "años": "50",
       "ser": "Ser Vivo",
-      "caracteristicas":[
-        "Frondoso",
-        "Alto",
-        "Caducifolio"
-      ],
+      "caracteristicas": "Frondoso, Alto, Caducifolio",
       "imagen": "https://drive.google.com/uc?id=14eW62jBYv3gixXFIPEKD-vZhf-8agTxg"
     },
     {
@@ -97,11 +69,7 @@
       "nombre": "We Are Your Friends",
       "años": "8",
       "ser": "Pelicula",
-      "caracteristicas":[
-        "Divertida",
-        "Musica",
-        "Entrenida"
-      ],
+      "caracteristicas": "Divertida, Musica, Entrenida",
       "imagen": "https://drive.google.com/uc?id=14eW62jBYv3gixXFIPEKD-vZhf-8agTxg"
     },
     {
@@ -110,11 +78,7 @@
       "nombre": "Guitarra",
       "años": "500",
       "ser": "Objeto",
-      "caracteristicas":[
-        "Acústica",
-        "Cuerdas",
-        "Versatil"
-      ],
+      "caracteristicas": "Acústica, Cuerdas, Versatil",
       "imagen": "https://drive.google.com/uc?id=14eW62jBYv3gixXFIPEKD-vZhf-8agTxg"
     },
     {
@@ -123,11 +87,7 @@
       "nombre": "Plutón",
       "años": "4.57 Mil Millones",
       "ser": "Muerto",
-      "caracteristicas":[
-        "Pequeño",
-        "Helado",
-        "Órbita excéntrica"
-      ],
+      "caracteristicas": "Pequeño, HeladoÓrbita, excéntrica",
       "imagen": "https://drive.google.com/uc?id=14eW62jBYv3gixXFIPEKD-vZhf-8agTxg"
     }
   ]
