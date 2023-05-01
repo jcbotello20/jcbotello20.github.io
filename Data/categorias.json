@@ -1,84 +1,134 @@
 {
-    "mascotas": {
-      "nombre": "Luna",
-      "especie": "Gato",
-      "raza": "Siamés",
-      "edad": 3,
-      "dueño": "Ana",
-      "imagen":"htps://drive.google.com/uc?id=1aKbfUhB5-yxVMiZ9W-3jIQUYolC0H-k2"
-      
+  "Categorias": [
+    {
+      "id": 1,
+      "tipo": "Persona",
+      "nombre": "Jhon",
+      "años": "15",
+      "ser": "Ser Vivo",
+      "caracteristicas":[
+        "Rubio",
+        "Alto",
+        "Inteligente"
+      ],
+      "imagen": "https://drive.google.com/uc?id=14eW62jBYv3gixXFIPEKD-vZhf-8agTxg"
     },
-    "personas": {
-      "nombre": "Juan",
-      "edad": 30,
-      "ocupación": "Abogado",
-      "país": "Colombia",
-      "hobby": "Jugar fútbol",
-      "imagen":"htps://drive.google.com/uc?id=1Z3f1lzWFpc1xpV4coPsX1Mt1aaOM6Tgw"
+    {
+      "id": 2,
+      "tipo": "Mascota",
+      "nombre": "Max",
+      "años": "3",
+      "ser": "Ser Vivo",
+      "caracteristicas":[
+        "Peludo",
+        "Pequeño",
+        "Jueguetón"
+      ],
+      "imagen": "https://drive.google.com/uc?id=14eW62jBYv3gixXFIPEKD-vZhf-8agTxg"
     },
-    "objetos": {
-      "nombre": "Mesa",
-      "material": "Madera",
-      "altura_cm": 80,
-      "ancho_cm": 120,
-      "largo_cm": 60,
-      "imagen":"htps://drive.google.com/uc?id=15ah8qSGHdi3nAbl2Cxny6stZ-k_1qUbr"
+    {
+      "id": 3,
+      "tipo": "Coche",
+      "nombre": "Mercedes Benz",
+      "años": "1",
+      "ser": "Objeto",
+      "caracteristicas":[
+        "Blanco",
+        "Deportivo",
+        "Rapido"
+      ],
+      "imagen": "https://drive.google.com/uc?id=14eW62jBYv3gixXFIPEKD-vZhf-8agTxg"
     },
-    "personajes": {
-      "nombre": "Harry Potter",
-      "edad": 17,
-      "casa": "Gryffindor",
-      "varita": "Sauce, 28 cm, núcleo de pelo de unicornio",
-      "animal_mágico": "Lechuza blanca",
-      "imagen":"htps://drive.google.com/uc?id=18VgximGnwB2tpY9hjx13xjA_ngvmrrqD"
+    {
+      "id": 4,
+      "tipo": "Edificio",
+      "nombre": "Burj Khalifa",
+      "años": "19",
+      "ser": "Objeto",
+      "caracteristicas":[
+        "Mas alto del Mundo",
+        "Lujoso",
+        "Acristalado"
+      ],
+      "imagen": "https://drive.google.com/uc?id=14eW62jBYv3gixXFIPEKD-vZhf-8agTxg"
     },
-    "frutas": {
-      "nombre": "Naranja",
-      "color": "Naranja",
-      "sabor": "Ácido",
-      "vitaminas": ["C"],
-      "calorías": 47,
-      "imagen":"htps://drive.google.com/uc?id=18VDHT2WzW4Qoexud-PlJxihK95p_VxY2"
+    {
+      "id": 5,
+      "tipo": "Planeta",
+      "nombre": "Tierra",
+      "años": "4.54 Mil Millones",
+      "ser": "Ser Vivo",
+      "caracteristicas":[
+        "Redondo",
+        "Habitable",
+        "Diversidad"
+      ],
+      "imagen": "https://drive.google.com/uc?id=14eW62jBYv3gixXFIPEKD-vZhf-8agTxg"
     },
-    "vehículos": {
-      "nombre": "Bicicleta",
-      "tipo": "Montaña",
-      "marca": "Trek",
-      "color": "Negro",
-      "material": "Aluminio",
-      "imagen":"htps://drive.google.com/uc?id=1Il1BfxI3xGCW8xoL5qJbTZeQ5PIqHsT_"
+    {
+      "id": 6,
+      "tipo": "Telefono",
+      "nombre": "Iphone 14",
+      "años": "2",
+      "ser": "Objeto",
+      "caracteristicas":[
+        "Ultimo Modelo",
+        "Rapido",
+        "Inteligente"
+      ],
+      "imagen": "https://drive.google.com/uc?id=14eW62jBYv3gixXFIPEKD-vZhf-8agTxg"
     },
-    "países": {
-      "nombre": "España",
-      "capital": "Madrid",
-      "moneda": "Euro",
-      "idioma": "Español",
-      "continente": "Europa",
-      "imagen":"htps://drive.google.com/uc?id=1H_Gs5nohuyD1C89veEbzMmxTTuG1_O_O"
+    {
+      "id": 7,
+      "tipo": "Arbol",
+      "nombre": "Roble ",
+      "años": "50",
+      "ser": "Ser Vivo",
+      "caracteristicas":[
+        "Frondoso",
+        "Alto",
+        "Caducifolio"
+      ],
+      "imagen": "https://drive.google.com/uc?id=14eW62jBYv3gixXFIPEKD-vZhf-8agTxg"
     },
-    "instrumentos": {
-      "nombre": "Piano",
-      "tipo": "Cuerda percutida",
-      "material": "Madera",
-      "número_de_teclas": 88,
-      "origen": "Italia",
-      "imagen":"htps://drive.google.com/uc?id=1PaWcaTNs-scnZC6EUBIlDkLg8szHbHeb"
+    {
+      "id": 8,
+      "tipo": "Pelicula",
+      "nombre": "We Are Your Friends",
+      "años": "8",
+      "ser": "Pelicula",
+      "caracteristicas":[
+        "Divertida",
+        "Musica",
+        "Entrenida"
+      ],
+      "imagen": "https://drive.google.com/uc?id=14eW62jBYv3gixXFIPEKD-vZhf-8agTxg"
     },
-    "bebidas": {
-      "nombre": "Café",
-      "tipo": "Bebida caliente",
-      "origen": "Etiopía",
-      "sabor": "Amargo",
-      "ingrediente_principal": "Café molido",
-      "imagen":"htps://drive.google.com/uc?id=1UQDNxaPLo8BYQlJQ9zRuV1Jb30WwoOWi"
+    {
+      "id": 9,
+      "tipo": "Instrumento",
+      "nombre": "Guitarra",
+      "años": "500",
+      "ser": "Objeto",
+      "caracteristicas":[
+        "Acústica",
+        "Cuerdas",
+        "Versatil"
+      ],
+      "imagen": "https://drive.google.com/uc?id=14eW62jBYv3gixXFIPEKD-vZhf-8agTxg"
     },
-    "deportes": {
-      "nombre": "Tenis",
-      "jugadores": 2,
-      "superficie": "Césped",
-      "duración_promedio": "2-4 horas",
-      "tamaño_de_la_cancha": "23.77 x 8.23 m",
-      "imagen":"htps://drive.google.com/uc?id=1VVPFEniP2W57FKsbSGeQhwrJrTQeOERj"
+    {
+      "id": 10,
+      "tipo": "Planeta",
+      "nombre": "Plutón",
+      "años": "4.57 Mil Millones",
+      "ser": "Muerto",
+      "caracteristicas":[
+        "Pequeño",
+        "Helado",
+        "Órbita excéntrica"
+      ],
+      "imagen": "https://drive.google.com/uc?id=14eW62jBYv3gixXFIPEKD-vZhf-8agTxg"
     }
-  }
-  
+  ]
+}
